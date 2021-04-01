@@ -1,3 +1,0 @@
-file 'C:\Users\csrir\Desktop\ads_muter\demo_videos\headingley_part1.mp4'
-file 'C:\Users\csrir\Desktop\ads_muter\Ceat Gripp X3 Will Tyre Save Nair.mp4'
-file 'C:\Users\csrir\Desktop\ads_muter\demo_videos\headingley_part2.mp4'
